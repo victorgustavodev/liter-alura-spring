@@ -4,8 +4,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java Version](https://img.shields.io/badge/Java-8%2B-blue)](https://www.java.com/)
-![GitHub repo size](https://img.shields.io/github/repo-size/rodrigoborge/Literalura)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rodrigoborge/Literalura)
 
 </div><br>
 
@@ -23,7 +21,7 @@ Este é um badge conquistado por ter desenvolvido este projeto com a Alura no pr
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/rodrigoborge/literalura.git
+   git clone https://github.com/victorgustavodev/literalura.git
    cd literalura
    ```
 
@@ -51,7 +49,7 @@ Este é um badge conquistado por ter desenvolvido este projeto com a Alura no pr
 
 ## Autor
 
-Esta aplicação em Java foi desenvolvida por [Rodrigo Borge](https://github.com/rodrigoborge)
+Esta aplicação em Java foi desenvolvida por [Victor Gustavo](https://github.com/victorgustavodev)
 
 ## Contribuição
 
